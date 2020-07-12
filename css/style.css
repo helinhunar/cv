@@ -1,0 +1,127 @@
+body{
+  margin:0px;
+  color:#40514E;
+  text-align: center;
+font-family: 'Merriweather', serif;
+}
+h1{
+  margin-top: 0px;
+  font-family: 'Sacramento', cursive;
+  font-size:400%;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+color: #66BFBF;
+}
+.top-container{
+
+position: relative;
+padding: 100px;
+}
+
+.topcloud {
+position: absolute;
+right: 300px;
+top: 50px;
+}
+.bottomcloud {
+  position: absolute;
+  left:300px;
+bottom: 300px;
+top: 300px;
+}
+.hacker {
+width: 25%;
+float: left:
+margin-right:30px;
+
+}
+.trans{
+width: 25%;
+float:right;
+margin-left:30px;
+}
+.me{
+ width: 250px;
+ height:250px;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+
+}
+
+}
+.middle-container{
+  margin: 100px 0 ;
+
+}
+.intro{
+  width: 30%;
+  margin:auto;
+}
+p{
+    line-height: 2;
+  }
+  hr{
+    border:dotted #66BFBF 6px ;
+    border-bottom: none;
+    width:4%;
+    margin:100px auto;
+
+  }
+  a:hover{
+    color:#EAF6F6;
+  }
+  a{
+    color:black;
+      font-family: 'Montserrat', sans-serif;
+      margin:10px;
+      text-decoration: none;
+  }
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.copy{
+  color:#EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0 ;
+}
+.btn {
+background: #30e3cb;
+background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+-webkit-border-radius: 8;
+-moz-border-radius: 8;
+border-radius: 8px;
+font-family: Arial;
+color: #ffffff;
+font-size: 20px;
+padding: 10px 20px 10px 20px;
+text-decoration: none;
+}
+
+.btn:hover {
+background: #3cb0fd;
+background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+text-decoration: none;
+}
+.contact-me{
+  margin: 30px;
+}
